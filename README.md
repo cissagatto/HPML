@@ -5,13 +5,19 @@ This repository hold all material develope during my PhD (2019-2023). HPML means
 ## PHD MANUSCRIPT
 
 *- Qualification*
+
 a) Download Manuscript
+
 b) Download Presentation
+
 c) Video on Youtube
 
 *- Defense*
+
 a) Download Manuscript
+
 b) Download Presentation
+
 c) Video on Youtube
 
 ## PUBLISHED PAPER
