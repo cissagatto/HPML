@@ -44,7 +44,7 @@ c) Video on Youtube
 
 [SET-UP 2](https://github.com/cissagatto/HPML2021)
 
-SET-UP 3
+[SET-UP 3](https://github.com/cissagatto/HPML2022)
 
 SET-UP 4
 
