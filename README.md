@@ -40,9 +40,9 @@ c) Video on Youtube
 
 ## EXPERIMENTS AND RESULTS
 
-SET-UP 1
+[SET-UP 1](https://github.com/cissagatto/HPML-J)
 
-SET-UP 2
+[SET-UP 2](https://github.com/cissagatto/HPML2021)
 
 SET-UP 3
 
