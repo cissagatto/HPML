@@ -42,13 +42,17 @@ c) Video on Youtube
 
 [SET-UP 1](https://github.com/cissagatto/HPML-J)
 
-[SET-UP 2](https://github.com/cissagatto/HPML2021)
+[SET-UP 2](https://github.com/cissagatto/HPML-Set-Up-2)
 
-[SET-UP 3](https://github.com/cissagatto/HPML2022)
+[SET-UP 3](https://github.com/cissagatto/HPML-Set-Up-3)
 
-SET-UP 4
+[SET-UP 4](https://github.com/cissagatto/HPML-Set-Up-4)
 
-SET-UP 5
+[SET-UP 5](https://github.com/cissagatto/HPML-Set-Up-5)
 
-SET-UP 6
+[SET-UP 6](https://github.com/cissagatto/HPML-Set-Up-6)
+
+[SET-UP 7](https://github.com/cissagatto/HPML-Set-Up-7)
+
+
 
