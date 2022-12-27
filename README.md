@@ -1,6 +1,9 @@
 # HPML: HYBRID PARTITIONS FOR MULTI-LABEL CLASSIFICATION
 This repository hold all material develope during my PhD (2019-2023). HPML means "Hybrid Partitions for Multi-Label Classification".
 
+## HPML Schematic
+https://github.com/cissagatto/HPML/blob/master/HPML-ALL-VERSIONS.png
+
 
 ## PHD MANUSCRIPT
 
