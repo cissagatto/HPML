@@ -30,16 +30,6 @@ c) Video on Youtube
 - Download presentation
 - Video on Youtube
 
-*EWSA*
-- Download paper
-- Download presentation
-- Video on Youtube
-
-*SAC*
-- Download paper
-- Download presentation
-- Video on Youtube
-
 
 ## EXPERIMENTS AND RESULTS
 
