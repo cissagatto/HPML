@@ -2,7 +2,7 @@
 This repository hold all material developed during my PhD (2019-2023).
 
 ## HPML Schematic
-https://github.com/cissagatto/HPML/blob/master/HPML-ALL-VERSIONS.png
+<img src="https://github.com/cissagatto/HPML/blob/main/HPML-ALL-VERSIONS.png" width="700">
 
 
 ## PHD MANUSCRIPT
