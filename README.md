@@ -25,6 +25,11 @@ c) Video on Youtube
 
 ## PUBLISHED PAPER
 
+*BRACIS 2023*
+- Download paper
+- Download presentation
+- Video on Youtube
+
 *IJCNN 2021*
 - Download paper
 - Download presentation
@@ -40,12 +45,6 @@ c) Video on Youtube
 [SET-UP 3](https://github.com/cissagatto/HPML-Set-Up-3)
 
 [SET-UP 4](https://github.com/cissagatto/HPML-Set-Up-4)
-
-[SET-UP 5](https://github.com/cissagatto/HPML-Set-Up-5)
-
-[SET-UP 6](https://github.com/cissagatto/HPML-Set-Up-6)
-
-[SET-UP 7](https://github.com/cissagatto/HPML-Set-Up-7)
 
 
 # LINKS
