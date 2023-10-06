@@ -1,50 +1,47 @@
 # HPML: HYBRID PARTITIONS FOR MULTI-LABEL CLASSIFICATION
 This repository hold all material developed during my PhD (2019-2023).
 
-## HPML Schematic
-<img src="https://github.com/cissagatto/HPML/blob/main/HPML-ALL-VERSIONS.png" width="700">
-
 
 ## PHD MANUSCRIPT
 
 *- Qualification*
 
-a) Download Manuscript
+a) [Download Manuscript](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-para-o-particionamento-do-espao-de-rtulos-em-problemas-de-classificao-multirrtulo-889c) - PtBr
 
-b) Download Presentation
+b) Download Presentation - PtBr
 
-c) Video on Youtube
+c) [Video on Youtube](https://youtu.be/ZTxZRjygbDA?list=PLq0DmQNDtJcQSpG7y3jyAagmG83UQMhOL) - PtBr
 
 *- Defense*
 
-a) Download Manuscript
+a) Download Manuscript - PtBr
 
-b) Download Presentation
+b) Download Presentation - PtBr
 
-c) Video on Youtube
+c) Video on Youtube - PtBr
 
 ## PUBLISHED PAPER
 
 *BRACIS 2023*
-- Download paper
-- Download presentation
-- Video on Youtube
+- [Download paper](https://www.bracis.dcc.ufmg.br/program/bracis) - EnUs
+- [Download presentation](https://pt.slideshare.net/elainececiliagatto/community-detection-method-for-multilabel-classification) - EnUs
+- Video on Youtube - EnUs
 
 *IJCNN 2021*
-- Download paper
-- Download presentation
-- Video on Youtube
+- [Download paper](https://ieeexplore.ieee.org/document/9533331) - EnUs
+- [Download presentation](https://pt.slideshare.net/elainececiliagatto/exploring-label-correlations-for-partitioning-the-label-space-in-multi-label-classification) - EnUs
+- [Video on Youtube](https://youtu.be/1sdFV4Dvuao) - EnUs
 
 
 ## EXPERIMENTS AND RESULTS
 
-[SET-UP 1](https://github.com/cissagatto/HPML-J)
+[Experimento 1](https://github.com/cissagatto/HPML-J)
 
-[SET-UP 2](https://github.com/cissagatto/HPML-Set-Up-2)
+[Experimento 2](https://github.com/cissagatto/HPML-2)
 
-[SET-UP 3](https://github.com/cissagatto/HPML-Set-Up-3)
+[Experimento 3](https://github.com/cissagatto/HPML-3)
 
-[SET-UP 4](https://github.com/cissagatto/HPML-Set-Up-4)
+[Experimento 4](https://github.com/cissagatto/HPML-4)
 
 
 # LINKS
