@@ -37,11 +37,11 @@ c) Video on Youtube - PtBr
 
 [Experimento 1](https://github.com/cissagatto/HPML-J)
 
-[Experimento 2](https://github.com/cissagatto/HPML-2)
+[Experimento 2](https://github.com/cissagatto/HPML-Expeirmento-2)
 
-[Experimento 3](https://github.com/cissagatto/HPML-3)
+[Experimento 3](https://github.com/cissagatto/HPML-Expeirmento-3)
 
-[Experimento 4](https://github.com/cissagatto/HPML-4)
+[Experimento 4](https://github.com/cissagatto/HPML-Expeirmento-4)
 
 
 # LINKS
