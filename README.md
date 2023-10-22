@@ -23,9 +23,9 @@ c) Video on Youtube - PtBr
 ## PUBLISHED PAPER
 
 *BRACIS 2023*
-- [Download paper](https://www.bracis.dcc.ufmg.br/program/bracis) - EnUs
+- [Download paper](https://link.springer.com/chapter/10.1007/978-3-031-45368-7_6) - EnUs
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/community-detection-method-for-multilabel-classification) - EnUs
-- [Video on Youtube](https://youtu.be/ymC1dRqoQVc) - EnUs
+- [Video on Youtube](https://youtu.be/ymC1dRqoQVc) - EnUs/PtBr
 
 *IJCNN 2021*
 - [Download paper](https://ieeexplore.ieee.org/document/9533331) - EnUs
