@@ -8,7 +8,7 @@ This repository hold all material developed during my PhD (2019-2023).
 
 a) [Download Manuscript](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-para-o-particionamento-do-espao-de-rtulos-em-problemas-de-classificao-multirrtulo-889c) - PtBr
 
-b) Download Presentation - PtBr
+b) [Download Presentation - PtBr](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-entre-rtulos-para-o-particionamento-do-espao-de-rtulos-na-classificao-multirrtulo)
 
 c) [Video on Youtube](https://youtu.be/ZTxZRjygbDA?list=PLq0DmQNDtJcQSpG7y3jyAagmG83UQMhOL) - PtBr
 
