@@ -37,7 +37,7 @@ c) Video on Youtube - PtBr
 
 [Experiment 1: HPML.A.c](https://github.com/cissagatto/HPML-J)
 
-[Experiment 2: EXAUSTIVE-ORACLE](https://github.com/cissagatto/HPML-Exaustive-Oracle)
+[Experiment 2: EXAUSTIVE-ORACLE](https://github.com/cissagatto/HPML-KAIS)
 
 [Experiment 3: COMUNITIES](https://github.com/cissagatto/Bracis2023)
 
