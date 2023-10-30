@@ -41,7 +41,7 @@ c) Video on Youtube - PtBr
 
 [Experiment 3: COMUNITIES](https://github.com/cissagatto/Bracis2023)
 
-[Experiment 4: Chains](https://github.com/cissagatto/HPML-Chains)
+[Experiment 4: CHAINS](https://github.com/cissagatto/HPML-Chains)
 
 
 
