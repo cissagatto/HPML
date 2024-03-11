@@ -25,17 +25,17 @@ c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 *BRACIS 2023*
 - [Download paper](https://link.springer.com/chapter/10.1007/978-3-031-45368-7_6) - EnUs
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/community-detection-method-for-multilabel-classification) - EnUs
-- [Video on Youtube](https://youtu.be/ymC1dRqoQVc) - EnUs/PtBr
+- [Video on Youtube](https://www.youtube.com/watch?v=ymC1dRqoQVc) - EnUs
 
 *IJCNN 2021*
 - [Download paper](https://ieeexplore.ieee.org/document/9533331) - EnUs
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/exploring-label-correlations-for-partitioning-the-label-space-in-multi-label-classification) - EnUs
-- [Video on Youtube](https://youtu.be/1sdFV4Dvuao) - EnUs
+- [Video on Youtube](https://www.youtube.com/watch?v=EvBmTEjj3C8) - EnUs
 
 *EPPC 2020*
 - [Download paper]() - PtBr
 - [Download presentation](https://pt.slideshare.net/slideshows/apresentao-da-minha-tese-de-doutorado-no-eppc/266728324) - PtBr
-- [Video on Youtube](https://www.youtube.com/watch?v=kSm91Qbmnu4) - PtBr
+- [Video on Youtube](https://www.youtube.com/watch?v=kSm91Qbmnu4&t=3s) - PtBr
 
 
 ## EXPERIMENTS AND RESULTS
