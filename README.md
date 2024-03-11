@@ -6,7 +6,7 @@ This repository hold all material developed during my PhD (2019-2023).
 
 *- Qualification*
 
-a) [Download Manuscript](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-para-o-particionamento-do-espao-de-rtulos-em-problemas-de-classificao-multirrtulo-889c) - PtBr
+a) [Download Manuscript](https://repositorio.ufscar.br/handle/ufscar/466) - PtBr
 
 b) [Download Presentation](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-entre-rtulos-para-o-particionamento-do-espao-de-rtulos-na-classificao-multirrtulo) - PtBr
 
@@ -14,11 +14,11 @@ c) [Video on Youtube](https://youtu.be/ZTxZRjygbDA?list=PLq0DmQNDtJcQSpG7y3jyAag
 
 *- Defense*
 
-a) Download Manuscript - PtBr
+a) [Download Manuscript](https://repositorio.ufscar.br/handle/ufscar/19284) - PtBr
 
-b) Download Presentation - PtBr
+b) [Download Presentation](https://pt.slideshare.net/slideshows/alm-do-aprendizado-local-e-global-particionando-o-espao-de-classes-em-problemas-de-classificao-multirrtulo/266728407) - PtBr
 
-c) Video on Youtube - PtBr
+c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 
 ## PUBLISHED PAPER
 
@@ -32,6 +32,11 @@ c) Video on Youtube - PtBr
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/exploring-label-correlations-for-partitioning-the-label-space-in-multi-label-classification) - EnUs
 - [Video on Youtube](https://youtu.be/1sdFV4Dvuao) - EnUs
 
+*EPPC 2020*
+- [Download paper]() - PtBr
+- [Download presentation](https://pt.slideshare.net/slideshows/apresentao-da-minha-tese-de-doutorado-no-eppc/266728324) - PtBr
+- [Video on Youtube](https://www.youtube.com/watch?v=kSm91Qbmnu4) - PtBr
+
 
 ## EXPERIMENTS AND RESULTS
 
@@ -39,7 +44,7 @@ c) Video on Youtube - PtBr
 
 [Experiment 2: EXAUSTIVE-ORACLE](https://github.com/cissagatto/HPML-KAIS)
 
-[Experiment 3: COMUNITIES](https://github.com/cissagatto/Bracis2023)
+[Experiment 3: COMMUNITIES](https://github.com/cissagatto/Bracis2023)
 
 [Experiment 4: CHAINS](https://github.com/cissagatto/HPML-Chains)
 
