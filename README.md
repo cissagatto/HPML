@@ -6,7 +6,7 @@ This repository hold all material developed during my PhD (2019-2023).
 
 *- Qualification*
 
-a) [Download Manuscript](https://repositorio.ufscar.br/handle/ufscar/466) - PtBr
+a) [Download Manuscript](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-para-o-particionamento-do-espao-de-rtulos-em-problemas-de-classificao-multirrtulo-889c) - PtBr
 
 b) [Download Presentation](https://pt.slideshare.net/elainececiliagatto/explorando-correlaes-entre-rtulos-para-o-particionamento-do-espao-de-rtulos-na-classificao-multirrtulo) - PtBr
 
