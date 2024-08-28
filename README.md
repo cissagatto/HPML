@@ -48,7 +48,9 @@ c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 
 [Experiment 4: CHAINS](https://github.com/cissagatto/HPML-Chains)
 
+## PLOT HYBRID PARTITIONS
 
+A code to plot the hybrid partitions. You can use this code to plot any data partition. It is very useful to visualize the label clusters, which differ from the instance clusters. [Plot HPML](https://github.com/cissagatto/Plot_HPML)
 
 ## Acknowledgment
 - This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
