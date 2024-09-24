@@ -20,7 +20,7 @@ b) [Download Presentation](https://pt.slideshare.net/slideshows/alm-do-aprendiza
 
 c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 
-## PUBLISHED PAPER
+## PUBLISHED PAPERS
 
 *BRACIS 2023*
 - [Download paper](https://link.springer.com/chapter/10.1007/978-3-031-45368-7_6) - EnUs
@@ -38,15 +38,31 @@ c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 - [Video on Youtube](https://www.youtube.com/watch?v=kSm91Qbmnu4&t=3s) - PtBr
 
 
-## EXPERIMENTS AND RESULTS
+## SUBMITTED PAPERS
 
-[Experiment 1: HPML.A.c](https://github.com/cissagatto/HPML-J)
+- Elaine Cecília Gatto, Mauri Ferrandin, Ricardo Cerri. Multi-Label Classification with Label Clusters. Knowledge and Information Systems. 07 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3133411/v1]
 
-[Experiment 2: EXAUSTIVE-ORACLE](https://github.com/cissagatto/HPML-KAIS)
+## ONGOING PAPERS
 
-[Experiment 3: COMMUNITIES](https://github.com/cissagatto/Bracis2023)
+- Elaine Cecília Gatto, Felipe Kenji Nakano, Jesse Read, Mauri Ferrandin, Ricardo Cerri and Celine Vens. Label Cluster Chains for Multi-Label Classification.
+- Elaine Cecília Gatto, Alan Demétrius Baria Valejo, Mauri Ferrandin, Ricardo Cerri. Community Detection for Multi-Label Classification. Applied Soft Computing. Extended Paper from BRACIS.
 
-[Experiment 4: CHAINS](https://github.com/cissagatto/HPML-Chains)
+## PAPERS REPOSITORIES
+
+[Experiment 1: HPML.A.c / IJCNN-2021](https://github.com/cissagatto/HPML-J)
+
+[Experiment 2: EXAUSTIVE-ORACLE / JOURNAL-KAIS-2024](https://github.com/cissagatto/HPML-KAIS)
+
+[Experiment 3: COMMUNITIES / BRACIS-2023](https://github.com/cissagatto/Bracis2023)
+
+[Experiment 3: COMMUNITIES / JOURNAL-ASOC-2024](https://github.com/cissagatto/CDMLC-ASOC)
+
+[Experiment 4: CHAINS / JOURNAL-?-?](https://github.com/cissagatto/HPML-Chains)
+
+## ALL RESULTS FOR ALL EXPERIMENTS
+
+
+
 
 ## PLOT HYBRID PARTITIONS
 
