@@ -1,5 +1,5 @@
 # HPML: HYBRID PARTITIONS FOR MULTI-LABEL CLASSIFICATION
-This repository hold all material developed during my PhD (2019-2023).
+This repository holds all material developed during my PhD (2019-2023).
 
 
 ## PHD MANUSCRIPT
