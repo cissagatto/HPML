@@ -85,6 +85,7 @@ A code to plot the hybrid partitions. You can use this code to plot any label pa
 ## Acknowledgment
 - This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
 - This study was financed in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico - Brasil (CNPQ) - Process number 200371/2022-3.
+- Research Fund Flanders (through research projects 1235924N to FKN and CV) and the Flemish AI Research Program.
 - The authors also thank the Brazilian research agencies FAPESP financial support.
 
 # Contact
