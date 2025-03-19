@@ -22,17 +22,24 @@ c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 
 ## PUBLISHED PAPERS
 
+*Knowledge and Information Systems  Journal 2024*
+- Title: Multi-label classification with label clusters
+- [Download paper](https://link.springer.com/article/10.1007/s10115-024-02270-9) - EnUs
+
 *BRACIS 2023*
+- Title: Community Detection for Multilabel Classification
 - [Download paper](https://link.springer.com/chapter/10.1007/978-3-031-45368-7_6) - EnUs
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/community-detection-method-for-multilabel-classification) - EnUs
 - [Video on Youtube](https://www.youtube.com/watch?v=ymC1dRqoQVc) - EnUs
 
 *IJCNN 2021*
+- Title: Exploring Label Correlations for Partitioning the Label Space in Multi-label Classification
 - [Download paper](https://ieeexplore.ieee.org/document/9533331) - EnUs
 - [Download presentation](https://pt.slideshare.net/elainececiliagatto/exploring-label-correlations-for-partitioning-the-label-space-in-multi-label-classification) - EnUs
 - [Video on Youtube](https://www.youtube.com/watch?v=EvBmTEjj3C8) - EnUs
 
 *EPPC 2020*
+- Title: Exploring Label Correlations for Partitioning the Label Space in Multi-label Classification
 - [Download paper]() - PtBr
 - [Download presentation](https://pt.slideshare.net/slideshows/apresentao-da-minha-tese-de-doutorado-no-eppc/266728324) - PtBr
 - [Video on Youtube](https://www.youtube.com/watch?v=kSm91Qbmnu4&t=3s) - PtBr
@@ -40,7 +47,6 @@ c) [Video on Youtube](https://www.youtube.com/watch?v=IA_RJOLgdYw) - PtBr
 
 ## SUBMITTED PAPERS
 
-- Elaine Cecília Gatto, Mauri Ferrandin, Ricardo Cerri. Multi-Label Classification with Label Clusters. Knowledge and Information Systems. 07 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3133411/v1]
 
 ## ONGOING PAPERS
 
